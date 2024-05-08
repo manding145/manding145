@@ -3,7 +3,7 @@
 
 dedicated student pursuing a Bachelor's degree in Information Technology (BSIT) at Eastern Visayas State University
 
-Currently in my second year, I am passionate about exploring the dynamic world of technology and its applications. Aside from my academic pursuits, I have also been actively engaged as a freelancer for nearly three years. My expertise in C#, Python, Machine Learning Language, Software Development Life Cycle (SDLC), where I have gained valuable experience in various stages of software development, including requirements gathering, design, coding, testing, and deployment. This hands-on experience has allowed me to enhance my technical skills and develop a keen understanding of the industry standards and best practices.
+Currently in my third year, I am passionate about exploring the dynamic world of technology and its applications. Aside from my academic pursuits, I have also been actively engaged as a freelancer for nearly three years. My expertise in C#, Python, Machine Learning Language, Software Development Life Cycle (SDLC), where I have gained valuable experience in various stages of software development, including requirements gathering, design, coding, testing, and deployment. This hands-on experience has allowed me to enhance my technical skills and develop a keen understanding of the industry standards and best practices.
 
 As a freelancer, I have had the opportunity to work on diverse projects, collaborating with clients to deliver efficient and high-quality solutions. This experience has not only sharpened my problem-solving abilities but has also fostered my creativity and adaptability in tackling different challenges.
 
