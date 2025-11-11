@@ -16,9 +16,9 @@ Thank you for taking the time to learn a little about me. I am excited to embark
   
 - ✉️ <a href="mailto:Armandoiii.bacolod@gmail.com">Gmail</a>
   
-- ⚡ <a href="https://www.linkedin.com/in/shawn-michael-sudaria-397a33319/">LinkedIn</a>
+- ⚡ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/armando-bacolod-830ab624b//">LinkedIn</a>
 
-- 👾 <a href="https://www.instagram.com/shone_ayo/">Instagram</a>
+- 👾 <a href="https://www.instagram.com//">Instagram</a>
 
 
  ### Github Stats
