@@ -11,6 +11,16 @@ With a strong foundation in my studies and practical experience as a freelancer,
 
 Thank you for taking the time to learn a little about me. I am excited to embark on this journey and explore new possibilities in the realm of IT.
 
+
+ ### Social Media
+  
+- ✉️ <a href="mailto:Armandoiii.bacolod@gmail.com">Gmail</a>
+  
+- ⚡ <a href="https://www.linkedin.com/in/shawn-michael-sudaria-397a33319/">LinkedIn</a>
+
+- 👾 <a href="https://www.instagram.com/shone_ayo/">Instagram</a>
+
+
  ### Github Stats
  <p align="center">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&show_icons=true&theme=tokyonight) -->
@@ -21,5 +31,10 @@ Thank you for taking the time to learn a little about me. I am excited to embark
 
 
 🛠️🛠️ Tools 🛠️🛠️
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,discord,fastapi,figma,eroku,html,css,visualstudio,wordpress,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,ps,gcp&perline=10" />
+  </a>
+</p>
 
 
