@@ -1,5 +1,5 @@
 <h1>👋 I'm Armando R. Bacolod III</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CB1E8F5&width=435&lines=Software+Developer;C-Sharp+Developer;Machine+Learning+Language;Software+Development+Lifecycle" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=950B28&width=435&lines=Software+Developer;C-Sharp+Developer;Desktop+Developer;Machine+Learning+Language;Software+Development+Life+Cycle" alt="Typing SVG" /></a>
 
 dedicated student pursuing a Bachelor's degree in Information Technology (BSIT) at Eastern Visayas State University
 
