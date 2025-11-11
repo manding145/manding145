@@ -30,10 +30,10 @@ Thank you for taking the time to learn a little about me. I am excited to embark
 <br>
 
 
-🛠️🛠️ Tools 🛠️🛠️
+### Some Tools I've Used 🛠️ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,discord,fastapi,figma,eroku,html,css,visualstudio,wordpress,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,ps,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,discord,fastapi,html,css,visualstudio,wordpress,vscode,bash,django,godot,linux,mysql,php,powershell,windows,ps,gcp&perline=10" />
   </a>
 </p>
 
