@@ -23,16 +23,11 @@ Thank you for taking the time to learn a little about me. I am excited to embark
 
  ### Github Stats
  <p>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&show_icons=true&theme=tokyonight) -->
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=manding145&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@manding145's github-readme-stats"/>
    <img src="https://github-readme-streak-stats.herokuapp.com?user=manding145&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@manding145 github-readme-streak-stats"/>
  </p>
 <br>
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manding145&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=transparent&color=0056c9&title_color=0056c9&point=0056c9&line=0056c9" width="95%" alt="activity graph">
-    </a>
-</p>
+
 
 
 ### Some Tools I've Used 🛠️ 
