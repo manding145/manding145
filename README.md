@@ -38,3 +38,6 @@ Thank you for taking the time to learn a little about me. I am excited to embark
 </p>
 
 
+<p align="center">
+<img src="https://github.com/manding145/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
