@@ -37,6 +37,9 @@ Thank you for taking the time to learn a little about me. I am excited to embark
   </a>
 </p>
 
+### 📊 Generated result
+<img src="https://github.com/manding145/graphics-readme/blob/master/linguages-statistics.png" alt="Graphic">	
+
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
