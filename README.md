@@ -7,7 +7,7 @@ Currently in my fourth year, I am passionate about exploring the dynamic world o
 
 As a freelancer, I have had the opportunity to work on diverse projects, collaborating with clients to deliver efficient and high-quality solutions. This experience has not only sharpened my problem-solving abilities but has also fostered my creativity and adaptability in tackling different challenges.
 
-With a strong foundation in my studies and practical experience as a freelancer, I am enthusiastic about further honing my skills and expanding my knowledge in the field of IT. I am constantly seeking new opportunities to contribute my expertise, learn from professionals, and make a positive impact in the ever-evolving world of technology.
+With a strong foundation in my studies and practical experience as a freelancer, I am enthusiastic about further honing my skills and expanding my knowledge in the field of IT. I am constantly seeking new opportunities to contribute my specialization, learn from professionals, and make a positive impact in the ever-evolving world of technology.
 
 Thank you for taking the time to learn a little about me. I am excited to embark on this journey and explore new possibilities in the realm of IT.
 
