@@ -12,13 +12,14 @@ With a strong foundation in my studies and practical experience as a freelancer,
 Thank you for taking the time to learn a little about me. I am excited to embark on this journey and explore new possibilities in the realm of IT.
 
 
+
  ### Social Media
-  
 - ✉️ <a href="mailto:Armandoiii.bacolod@gmail.com">Gmail</a>
   
 - ⚡ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/armando-bacolod-830ab624b//">LinkedIn</a>
 
 - 👾 <a href="https://www.instagram.com//">Instagram</a>
+
 
 
  ### Github Stats
@@ -36,6 +37,7 @@ Thank you for taking the time to learn a little about me. I am excited to embark
     <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,discord,fastapi,html,css,visualstudio,wordpress,vscode,bash,django,godot,linux,mysql,php,powershell,windows,ps,gcp&perline=10" />
   </a>
 </p>
+
 
 
 <p align="center">
