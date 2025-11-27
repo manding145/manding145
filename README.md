@@ -23,7 +23,7 @@ Thank you for taking the time to learn a little about me. I am excited to embark
 
 
  ### Github Stats
-<p> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=manding145&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@manding145's github-readme-stats"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=manding145&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@manding145 github-readme-streak-stats"/> </p>
+<p> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=manding145&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@manding145 github-readme-stats"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=manding145&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@manding145 github-readme-streak-stats"/> </p>
 
 
 
