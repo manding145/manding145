@@ -16,7 +16,7 @@ Thank you for taking the time to learn a little about me. I am excited to embark
  ### Social Media
 - ✉️ <a href="mailto:Armandoiii.bacolod@gmail.com">Gmail</a>
   
-- ⚡ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/armando-bacolod-830ab624b//">LinkedIn</a>
+- ⚡ <a href="https://www.linkedin.com/in/armando-bacolod-830ab624b//">LinkedIn</a>
 
 - 👾 <a href="https://www.instagram.com//">Instagram</a>
 
